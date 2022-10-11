@@ -1,1 +1,9 @@
 Initial commit
+
+Create branch dengan nama issue type
+Lakukan development di branch (commit, push)
+Craete pull request 
+Kalo sudah yakin, squash and merge 
+Ganti branch ke main
+Lalu git fetch dan git pull origin main
+Kembali ke step 1
