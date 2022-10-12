@@ -7,3 +7,8 @@ Kalo sudah yakin, squash and merge
 Ganti branch ke main
 Lalu git fetch dan git pull origin main
 Kembali ke step 1
+
+
+1. FE Navbar
+2. Backend Routes
+3 & 4. Sql Query & Diagram
